@@ -53,7 +53,7 @@ $$
 $$
 
 ## Requisitos
-- **Python 3.x**
+- **Python**
 - Librerías necesarias:
   - `matplotlib`
   - `math`
